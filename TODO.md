@@ -13,3 +13,7 @@
 - [ ] dynamic buffer file instead of fixed size
 - [ ] set $_SERVER, $_GET, $_POST, $_COOKIE and $_FILES if possible
 - [ ] docs page
+- [ ] add log requests file
+- [ ] add quiet mode
+- [ ] command line help and version
+- [ ] man command entry
